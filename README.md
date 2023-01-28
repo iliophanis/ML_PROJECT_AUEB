@@ -7,5 +7,5 @@
   * main.py (implement the logistic regression)
   * neural_network.py (false implementation of neural network with 10 outputs)
   * neural_network_sigmoid.py (TODO with one output) 
-  * ΜΜ-Εργασία2022 (work pronunciation)
+  * ΜΜ-Εργασία2022.pdf (work pronunciation)
 
